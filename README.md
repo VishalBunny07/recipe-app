@@ -48,6 +48,8 @@ File → Open → Select the cloned project folder
 
 Build and run the app on your emulator or physical device.
 
+NOTE:- Here r.zip Contains resources and myrecipeapp.zip contains apk with gradles
+
 
 
 MIT License
